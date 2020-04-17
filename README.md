@@ -21,7 +21,8 @@
 
 # 用户页面
 <img src="https://ae01.alicdn.com/kf/H5c37cac7c63b410791e1305c486cf7eaF.png">
-## 实现功能
+
+### 实现功能
 
 *   微信用户登录及头像显示
 *   收藏页面数据更新和跳转
@@ -30,6 +31,7 @@
 
 # 购物车页面
 <img src="https://ae01.alicdn.com/kf/Hd93c292a349542e28a5bdcf0681440b2X.png">
+
 ### 实现功能
 
 
@@ -40,6 +42,7 @@
 
 # 商品列表页面
 <img src="https://ae01.alicdn.com/kf/H39fbaf861e974783a9f052e2f1bdea6eS.png">
+
 ## 实现功能
 
 
@@ -51,6 +54,7 @@
 
 # 分类页面
 <img src="https://ae01.alicdn.com/kf/H6d927b6ed4cf4344a997733c2c08519eP.png">
+
 ## 实现功能
 
 
@@ -60,6 +64,7 @@
 
 # 首页页面
 <img src="https://ae01.alicdn.com/kf/H0ea5548b7bc14d04862c789279725b9fe.png">
+
 ## 实现功能
 
 *   轮播图
@@ -68,6 +73,7 @@
 
 # 商品详情页面
 <img src="https://ae01.alicdn.com/kf/H1be522cdf565428caa5c44f10452d388J.png">
+
 ## 实现功能
 
 *   轮播图预览大图功能
@@ -77,6 +83,7 @@
 
 # 订单查询页面
 <img src="https://ae01.alicdn.com/kf/H90e17d1300974aad9e9157dc232246f4Y.png">
+
 ## 实现功能
 
 
@@ -85,6 +92,7 @@
 
 # 搜索页面
 <img src="https://ae01.alicdn.com/kf/H19bcc481f7524ffe98ec57d1120d31adR.png">
+
 ## 实现功能
 
 
