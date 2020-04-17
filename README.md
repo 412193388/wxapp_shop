@@ -5,6 +5,7 @@
 *   小程序Tabbar组件
 *   自定义Tabs、SearchInput等组件
 *   采用less样式编辑
+*   flex布局
 *   CSS3中var功能
 *   ES6中的promise
 *   async和await
